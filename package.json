@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate-text-editor",
   "version": "1.0.0",
   "description": "A text editor for homework 19 which meets PWA criteria",
   "main": "server.js",

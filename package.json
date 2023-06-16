@@ -28,6 +28,6 @@
     "url": "git+https://github.com/FaithsCoding/text-editor"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.21.3"
   }
 }

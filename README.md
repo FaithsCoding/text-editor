@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a text editor allowing the user to create notes or code snippets. This can be downloaded and used offline as well as within a browser. The integrated service workers and cache API's ensure that the app can run offline.
+This project is a text editor allowing the user to create notes or code snippets. This can be downloaded and used offline as well as within a browser. The integrated service workers and cache API's ensure that the app can run offline. This project has been created to demonstrate the use of PWAS (progressive web applications).
 
 ## Table of Contents
 

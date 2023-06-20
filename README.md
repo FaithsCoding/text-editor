@@ -30,6 +30,7 @@ You can test this application by running npm start, this should build the applic
 ## Demo
 
 Screeshot showing file structure:
+
 ![Screenshot 2023-06-20 at 10 54 31](https://github.com/FaithsCoding/text-editor/assets/122907573/1287c02e-e42f-4930-bfed-a0c7fd5dea72)
 
 Screenshot to show the npm i:
